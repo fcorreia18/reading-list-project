@@ -13,6 +13,6 @@ export default function BookList(params) {
             </ul>
         </div>
     ) : (
-            <div className="empty"> Sem livros pra ler de momento...</div >
+            <div className="empty"> Sem livros pra ler de momento, cadastre um!</div >
         )
 };
