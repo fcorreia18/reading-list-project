@@ -71,4 +71,9 @@ input[type="submit"]{
     display: block;
     cursor: pointer;
 }
-
+.footer{
+    color: gray;
+    text-align: end;
+    font-size: 0.8rem;
+    margin-right: 2%;
+}
